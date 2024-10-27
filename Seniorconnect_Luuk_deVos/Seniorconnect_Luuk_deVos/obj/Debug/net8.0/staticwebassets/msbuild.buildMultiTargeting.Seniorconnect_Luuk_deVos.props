@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Seniorconnect_Luuk_deVos.props" />
+</Project>

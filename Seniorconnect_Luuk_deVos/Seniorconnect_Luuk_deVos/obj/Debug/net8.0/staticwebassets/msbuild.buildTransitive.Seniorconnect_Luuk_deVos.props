@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Seniorconnect_Luuk_deVos.props" />
+</Project>
