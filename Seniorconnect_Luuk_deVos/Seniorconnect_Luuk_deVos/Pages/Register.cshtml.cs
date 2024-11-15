@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Seniorconnect_Luuk_deVos.DAL;
-using Seniorconnect_Luuk_deVos.Model;
 using System.ComponentModel.DataAnnotations;
 
 namespace Seniorconnect_Luuk_deVos.Pages

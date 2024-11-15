@@ -1,10 +1,9 @@
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Seniorconnect_Luuk_deVos.DAL;
-using Seniorconnect_Luuk_deVos.Model;
 using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
 
@@ -32,26 +31,25 @@ namespace Seniorconnect_Luuk_deVos.Pages
 
             var authResult = _userLogic.AuthenticateUser(Credential.email, Credential.password);
 
-            if (authResult ==null)
+            if (authResult == null)
             {
                 ModelState.AddModelError(string.Empty, "Invalid login attempt.");
                 return Page();
             }
 
 
-            var claims = new List<Claim>
-    {
-        new Claim(ClaimTypes.NameIdentifier, authResult.userId.ToString()),
-        new Claim(ClaimTypes.Email, authResult.email),
-        new Claim(ClaimTypes.Name, authResult.name)
-    };
+            var claims = new List<Claim>{
+                new Claim(ClaimTypes.NameIdentifier, authResult.userId.ToString()),
+                new Claim(ClaimTypes.Email, authResult.email),
+                new Claim(ClaimTypes.Name, authResult.name)
+            };
 
             var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
             var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
 
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
-            return RedirectToPage("/Index"); // Redirect to a secure page after successful login
+            return RedirectToPage("/Index");
         }
     }
 

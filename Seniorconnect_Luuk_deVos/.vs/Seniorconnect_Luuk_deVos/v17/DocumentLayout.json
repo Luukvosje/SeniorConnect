@@ -1,69 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\",
+  "WorkspaceRootPath": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity\\viewactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity\\viewactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\model\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\model\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity\\viewactivity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity\\viewactivity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\dal\\activitylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\dal\\activitylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\dal\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\dal\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\dal\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\dal\\baselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\dal\\baselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\source\\repos\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\activity\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\activity\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\model\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\model\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\model\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\dal\\baselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\dal\\baselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|c:\\users\\devos\\gtihub\\seniorconnect\\seniorconnect_luuk_devos\\seniorconnect_luuk_devos\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25C49912-36ED-457B-A9A8-0B85F03DFF18}|Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj|solutionrelative:seniorconnect_luuk_devos\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -74,119 +102,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserLogic.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Program.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Program.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Program.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:17:30.515Z",
+              "WhenOpened": "2024-10-27T13:20:28.804Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Program.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Program.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Program.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ViewActivity.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:20:28.804Z",
+              "WhenOpened": "2024-11-13T14:17:22.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:13:45.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\DAL\\UserLogic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:42:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivityLogic.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\ActivityLogic.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\DAL\\ActivityLogic.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\ActivityLogic.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\DAL\\ActivityLogic.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwJgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:07:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwC0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:19:04.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:18:57.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-11T12:58:30.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T13:28:16.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T13:26:17.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Activity.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:01:41.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MySqlDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
               "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
               "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Model\\MySqlDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,94 +198,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Activity.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ViewActivity.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\ViewActivity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T14:14:53.972Z",
+              "WhenOpened": "2024-11-13T14:14:49.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:58:50.15Z",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:44:49.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseLogic.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:25:04.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Activity\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:12:49.497Z",
+              "WhenOpened": "2024-10-30T15:45:36.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\User.cs",
               "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\User.cs",
               "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T13:34:29.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T13:58:15.83Z",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:12:49.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T12:59:38.375Z",
+              "WhenOpened": "2024-11-13T11:43:14.95Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:58:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:38:43.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:38:26.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T15:39:00.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActivityModel.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\ActivityModel.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Model\\ActivityModel.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Model\\ActivityModel.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Model\\ActivityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:07:53.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:43:22.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T13:58:15.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:28:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T12:58:30.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseLogic.cs",
+              "DocumentMoniker": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
+              "RelativeDocumentMoniker": "Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
+              "ToolTip": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
+              "RelativeToolTip": "Seniorconnect_Luuk_deVos\\DAL\\BaseLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:25:04.646Z"
             }
           ]
         }

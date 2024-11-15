@@ -2831,11 +2831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj",
+      "projectUniqueName": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj",
       "projectName": "Seniorconnect_Luuk_deVos",
-      "projectPath": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj",
+      "projectPath": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos.csproj",
       "packagesPath": "C:\\Users\\devos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devos\\source\\repos\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\obj\\",
+      "outputPath": "C:\\Users\\devos\\Gtihub\\SeniorConnect\\Seniorconnect_Luuk_deVos\\Seniorconnect_Luuk_deVos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devos\\AppData\\Roaming\\NuGet\\NuGet.Config",
